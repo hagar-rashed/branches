@@ -1,0 +1,9 @@
+● Tell me how to remove them locally and remotely.
+ To delete them remotely branch
+  git push origin :dev
+  git push origin :test
+  
+  
+ To delete a local branch
+   git branch -d dev
+   git branch -d test
